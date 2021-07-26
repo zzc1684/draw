@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T02:42:00.179Z" agent="5.0 (Windows)" etag="8z8Xyt8skg1bTrRsTDjG" version="14.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-26T09:00:34.347Z" agent="5.0 (Windows)" etag="Cu5fP_6G0iKPUmeqcf73" version="14.7.8" type="github">
   <diagram id="ZYVreqJn-sJ6QCs0seaK" name="Page-1">
     <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,40 +52,25 @@
         <mxCell id="T4Ln5G1DMDhyiRUX-GYg-73" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=1;fontSize=32;fontColor=#FF4D17;fillColor=#FF4D17;align=center;" vertex="1" parent="1">
           <mxGeometry x="568" y="940" width="90" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="T4Ln5G1DMDhyiRUX-GYg-74" value="99" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=32;fontStyle=1;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1080" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="T4Ln5G1DMDhyiRUX-GYg-75" value="1" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=32;fontStyle=1;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="1080" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="T4Ln5G1DMDhyiRUX-GYg-76" value="" style="shape=cross;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=1;fontSize=32;fontColor=#FF4D17;fillColor=#FF4D17;align=center;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1075" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="T4Ln5G1DMDhyiRUX-GYg-77" value="100" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=32;fontStyle=1;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1080" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="T4Ln5G1DMDhyiRUX-GYg-78" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=1;fontSize=32;fontColor=#FF4D17;fillColor=#FF4D17;align=center;" vertex="1" parent="1">
-          <mxGeometry x="568" y="1075" width="90" height="71" as="geometry" />
-        </mxCell>
         <mxCell id="T4Ln5G1DMDhyiRUX-GYg-79" value="179" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=32;fontStyle=1;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1208" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="1075" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T4Ln5G1DMDhyiRUX-GYg-80" value="1" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=32;fontStyle=1;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="1208" width="120" height="60" as="geometry" />
+        <mxCell id="T4Ln5G1DMDhyiRUX-GYg-80" value="8" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=32;fontStyle=1;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1075" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T4Ln5G1DMDhyiRUX-GYg-81" value="" style="shape=cross;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=1;fontSize=32;fontColor=#FF4D17;fillColor=#FF4D17;align=center;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1203" width="70" height="70" as="geometry" />
+          <mxGeometry x="330" y="1070" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="T4Ln5G1DMDhyiRUX-GYg-82" value="180" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=32;fontStyle=1;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1208" width="120" height="60" as="geometry" />
+        <mxCell id="T4Ln5G1DMDhyiRUX-GYg-82" value="187" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=32;fontStyle=1;glass=0;shadow=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1075" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T4Ln5G1DMDhyiRUX-GYg-83" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=1;fontSize=32;fontColor=#FF4D17;fillColor=#FF4D17;align=center;" vertex="1" parent="1">
-          <mxGeometry x="568" y="1203" width="90" height="71" as="geometry" />
+          <mxGeometry x="568" y="1070" width="90" height="71" as="geometry" />
         </mxCell>
         <mxCell id="T4Ln5G1DMDhyiRUX-GYg-85" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;lid=0;rounded=1;shadow=1;glass=0;sketch=1;fontSize=32;fontColor=#FF4D17;fillColor=#FF4D17;align=center;" vertex="1" parent="1">
           <mxGeometry x="300" y="1640" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T4Ln5G1DMDhyiRUX-GYg-87" value="&lt;span style=&quot;font-size: 16px&quot;&gt;那说完十进制的原理，二进制其实也就容易理解了，十进制是逢十进一，底数为10，那二进制则是逢二进一，底数为二。&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=1;fontSize=32;fontColor=#FF4D17;" vertex="1" parent="1">
+        <mxCell id="T4Ln5G1DMDhyiRUX-GYg-87" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;那说完十进制的原理，二进制其实也就容易理解了，十进制是逢十进一，底数为10；二进制则是逢二进一，底数为二。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;逢二进一，每一位则只可能是0或者1，超过则进位；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=1;fontSize=32;fontColor=#FF4D17;" vertex="1" parent="1">
           <mxGeometry x="70" y="1365" width="880" height="40" as="geometry" />
         </mxCell>
       </root>
