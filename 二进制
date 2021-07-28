@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T01:54:42.204Z" agent="5.0 (Windows)" etag="YAp5zUGmqLuicShjUXcL" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T02:02:44.679Z" agent="5.0 (Windows)" etag="CcsXf4mS0g_za24HggX4" version="14.9.2" type="github">
   <diagram id="ZYVreqJn-sJ6QCs0seaK" name="Page-1">
     <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,6 +150,15 @@
         </mxCell>
         <mxCell id="hYeGMgDTlrGRRmqpi3os-18" value="24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=1;labelBackgroundColor=none;sketch=1;fontSize=32;fontColor=#FF4D17;" vertex="1" parent="1">
           <mxGeometry x="492" y="1680" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hYeGMgDTlrGRRmqpi3os-19" value="&lt;div&gt;大家都知道一天24个小时，按道理是1-24来表示24个小时；但时钟只有12个数字，怎么表示24个小时？&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1734" width="330" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="hYeGMgDTlrGRRmqpi3os-22" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;strokeColor=#0000CC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="555" y="1784" as="sourcePoint" />
+            <mxPoint x="660" y="1630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
