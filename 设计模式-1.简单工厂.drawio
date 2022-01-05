@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T08:59:07.961Z" agent="5.0 (Windows)" etag="cjAj3kmQ_JfSBLv65nNV" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T09:45:32.010Z" agent="5.0 (Windows)" etag="qDCTOMQOsmv1WjbXHhvf" version="16.1.4" type="github">
   <diagram id="DcDpcXdQ_BzCnlgZswgj" name="Page-1">
     <mxGraphModel dx="2249" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,16 +29,31 @@
           <mxGeometry x="180" y="640" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X1H7lBKrA3wOXXtLy0jN-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;IProduct&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field1: Type&lt;br&gt;+ field2: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method1(Type): Type&lt;br&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="810" width="190" height="140" as="geometry" />
+          <mxGeometry x="740" y="965" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="X1H7lBKrA3wOXXtLy0jN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=block;endFill=0;endSize=10;" edge="1" parent="1" source="X1H7lBKrA3wOXXtLy0jN-11" target="X1H7lBKrA3wOXXtLy0jN-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X1H7lBKrA3wOXXtLy0jN-11" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Product&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="835" width="160" height="90" as="geometry" />
+          <mxGeometry x="460" y="990" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X1H7lBKrA3wOXXtLy0jN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="X1H7lBKrA3wOXXtLy0jN-15" target="X1H7lBKrA3wOXXtLy0jN-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X1H7lBKrA3wOXXtLy0jN-15" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;ProductFactory&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="254" y="835" width="160" height="90" as="geometry" />
+          <mxGeometry x="154" y="990" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="X1H7lBKrA3wOXXtLy0jN-16" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Customer&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="835" width="160" height="90" as="geometry" />
+        <mxCell id="X1H7lBKrA3wOXXtLy0jN-16" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;使用者&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="990" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X1H7lBKrA3wOXXtLy0jN-24" value="&lt;h4 id=&quot;定义&quot;&gt;&lt;strong&gt;定义&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;&lt;a href=&quot;https://so.csdn.net/so/search?q=%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F&quot; target=&quot;_blank&quot; class=&quot;hl hl-1&quot;&gt;简单工厂模式&lt;/a&gt;属于创建型模式又叫做静态工厂方法模式，是由一个工厂对象决定创建出哪一种产品类的实例。&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="690" width="590" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X1H7lBKrA3wOXXtLy0jN-25" value="Factory：工厂类，简单工厂模式的核心，它负责实现创建所有实例的内部逻辑。工厂类的创建产品类的方法可以被外界直接调用，创建所需的产品对象。&lt;br&gt;IProduct：抽象产品类，简单工厂模式所创建的所有对象的父类，它负责描述所有实例所共有的公共接口。&lt;br&gt;Product：具体产品类，是简单工厂模式的创建目标。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="835" width="820" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X1H7lBKrA3wOXXtLy0jN-26" value="3.使用简单工厂模式的场景和优缺点&lt;br&gt;使用场景&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 工厂类负责创建的对象比较少。&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 客户只知道传入工厂类的参数，对于如何创建对象（逻辑）不关心。&lt;br&gt;&lt;br&gt;简单工厂模式优缺点&lt;br&gt;优点：&lt;br&gt;&lt;br&gt;使用户根据参数获得对应的类实例，避免了直接实例化类，降低了耦合性。&lt;br&gt;缺点：&lt;br&gt;&lt;br&gt;可实例化的类型在编译期间已经被确定，如果增加新类型，则需要修改工厂，违背了开放封闭原则(ASD) 。 简单工厂需要知道所有要生成的类型，当子类过多或者子类层次过多时不适合使用。&lt;br&gt;————————————————&lt;br&gt;版权声明：本文为CSDN博主「刘望舒」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。&lt;br&gt;原文链接：https://blog.csdn.net/itachi85/article/details/50651177" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="1160" width="1030" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
