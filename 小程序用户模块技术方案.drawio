@@ -59,20 +59,8 @@
         <mxCell id="RqRTATrgt7MeRBz05JWU-15" value="&lt;div&gt;蜜源账号信息查询&lt;/div&gt;&lt;div&gt;渠道授权信息查询&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="426" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RqRTATrgt7MeRBz05JWU-17" value="&lt;div&gt;mysql&lt;/div&gt;&lt;div&gt;AI搜索库&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="RqRTATrgt7MeRBz05JWU-17" value="&lt;div&gt;mysql&lt;/div&gt;&lt;div&gt;AI用户库&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="703" y="293" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="RqRTATrgt7MeRBz05JWU-21" value="AI用户表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="610" y="410" width="140" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="RqRTATrgt7MeRBz05JWU-22" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="RqRTATrgt7MeRBz05JWU-21">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RqRTATrgt7MeRBz05JWU-23" value="miyuan_user_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="RqRTATrgt7MeRBz05JWU-21">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RqRTATrgt7MeRBz05JWU-24" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="RqRTATrgt7MeRBz05JWU-21">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
