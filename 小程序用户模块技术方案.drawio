@@ -1,9 +1,79 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="25.0.1">
   <diagram name="第 1 页" id="D3y8B_VSon4lfVL2JQVJ">
-    <mxGraphModel>
+    <mxGraphModel dx="1242" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RqRTATrgt7MeRBz05JWU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="RqRTATrgt7MeRBz05JWU-1" target="RqRTATrgt7MeRBz05JWU-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="203" y="168" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RqRTATrgt7MeRBz05JWU-9" value="RPC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=20;" vertex="1" connectable="0" parent="RqRTATrgt7MeRBz05JWU-7">
+          <mxGeometry x="-0.5008" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RqRTATrgt7MeRBz05JWU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="RqRTATrgt7MeRBz05JWU-1" target="RqRTATrgt7MeRBz05JWU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RqRTATrgt7MeRBz05JWU-10" value="RPC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=20;" vertex="1" connectable="0" parent="RqRTATrgt7MeRBz05JWU-8">
+          <mxGeometry x="-0.64" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RqRTATrgt7MeRBz05JWU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="RqRTATrgt7MeRBz05JWU-1" target="RqRTATrgt7MeRBz05JWU-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RqRTATrgt7MeRBz05JWU-19" value="AI DB" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=20;" vertex="1" connectable="0" parent="RqRTATrgt7MeRBz05JWU-18">
+          <mxGeometry x="-0.2329" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RqRTATrgt7MeRBz05JWU-1" value="AI搜索" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="446" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RqRTATrgt7MeRBz05JWU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="RqRTATrgt7MeRBz05JWU-2" target="RqRTATrgt7MeRBz05JWU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RqRTATrgt7MeRBz05JWU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="RqRTATrgt7MeRBz05JWU-2" target="RqRTATrgt7MeRBz05JWU-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RqRTATrgt7MeRBz05JWU-2" value="小程序项目" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="163" y="293" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RqRTATrgt7MeRBz05JWU-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="RqRTATrgt7MeRBz05JWU-4" target="RqRTATrgt7MeRBz05JWU-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RqRTATrgt7MeRBz05JWU-4" value="蜜源用户项目" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="446" y="293" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RqRTATrgt7MeRBz05JWU-11" value="&lt;div&gt;对接微信第三方接口&lt;/div&gt;&lt;div&gt;获取openId/unionId&lt;/div&gt;&lt;div&gt;手机号解密&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="73" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RqRTATrgt7MeRBz05JWU-13" value="&lt;div&gt;AI小程序信息管理&lt;/div&gt;&lt;div&gt;appId&amp;amp;secret&lt;/div&gt;&lt;div&gt;accessToken刷新&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="213" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RqRTATrgt7MeRBz05JWU-15" value="&lt;div&gt;蜜源账号信息查询&lt;/div&gt;&lt;div&gt;渠道授权信息查询&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="426" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RqRTATrgt7MeRBz05JWU-17" value="&lt;div&gt;mysql&lt;/div&gt;&lt;div&gt;AI搜索库&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="703" y="293" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RqRTATrgt7MeRBz05JWU-21" value="AI用户表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="610" y="410" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RqRTATrgt7MeRBz05JWU-22" value="id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="RqRTATrgt7MeRBz05JWU-21">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RqRTATrgt7MeRBz05JWU-23" value="miyuan_user_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="RqRTATrgt7MeRBz05JWU-21">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RqRTATrgt7MeRBz05JWU-24" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="RqRTATrgt7MeRBz05JWU-21">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
